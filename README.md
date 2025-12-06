@@ -1,11 +1,15 @@
 ## 👋 Hi, I'm Enzo
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
-     width="260"
-     style="border-radius: 20px; margin-left: 25px; margin-bottom: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+<img 
+  align="right" 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
+  width="260"
+  style="border-radius: 30px; margin-left: 40px; margin-bottom: 20px;"
+/>
 
 I'm a **Computer Engineering student** with a passion for backend development and game development.  
 I love understanding how systems work under the hood and building software that is clean, efficient, and meaningful.
+
 
 I’ve studied subjects like data structures, algorithms, Java OOP, C programming, databases, PL/SQL, and computer architecture, and I use them to build projects that help me grow as an engineer.
 

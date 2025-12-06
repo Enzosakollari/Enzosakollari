@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm a Computer Engineering student with a passion for backend development and game development. I enjoy understanding how systems work, from low-level logic to full backend architectures. I’ve studied subjects like data structures, algorithms, Java OOP, C programming, databases, PL/SQL, and computer architecture, and I use them to build projects that help me grow as an engineer.<br><br>I love backend work because it lets me design systems that are reliable and purposeful. I enjoy game development because it challenges my logic, creativity, and problem-solving skills. Above all, I code because I want to build things that make sense, solve problems, and show the best of what I can do.
+## 👋 Hi, I'm Enzo
+
+<img 
+  align="right" 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
+  width="260"
+  style="border-radius: 30px; margin-left: 40px; margin-bottom: 20px;"
+/>
+
+I'm a **Computer Engineering student** with a passion for backend development and game development.  
+I love understanding how systems work under the hood and building software that is clean, efficient, and meaningful.
 
 
 ## 🌐 Socials:
@@ -12,10 +22,3 @@ I'm a Computer Engineering student with a passion for backend development and ga
 ![](https://nirzak-streak-stats.vercel.app/?user=Enzosakollari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzosakollari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Enzosakollari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Enzosakollari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -24,3 +24,5 @@ I love understanding how systems work under the hood and building software that 
 ![](https://nirzak-streak-stats.vercel.app/?user=Enzosakollari&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzosakollari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[My LinkedIn Video](https://www.linkedin.com/feed/update/urn:li:activity:7406807961056059393/)
+

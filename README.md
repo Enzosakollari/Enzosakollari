@@ -123,30 +123,26 @@
   />
 </p>
 
-## 🚀 My Projects
+<h2>🚀 My Projects</h2>
 
-<div style="display:flex; justify-content:center; gap:16px;">
-
+<p align="center">
   <img 
-    src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/banner.png?raw=true" 
-    width="280" 
-    height="180"
-    style="object-fit:cover; border-radius:10px;"
+    src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/banner.png?raw=true"
+    width="360"
+    height="220"
   />
-
   <img 
-    src="https://github.com/Enzosakollari/The-Maze/blob/master/TjgOtM.png?raw=true" 
-    width="280" 
-    height="180"
-    style="object-fit:cover; border-radius:10px;"
+    src="https://github.com/Enzosakollari/The-Maze/blob/master/TjgOtM.png?raw=true"
+    width="360"
+    height="220"
   />
-
   <img 
-    src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221645.png?raw=true" 
-    width="280" 
-    height="180"
-    style="object-fit:cover; border-radius:10px;"
+    src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221645.png?raw=true"
+    width="360"
+    height="220"
   />
+</p>
+
 
 </div>
 

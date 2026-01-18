@@ -1,22 +1,26 @@
-<h1 align="center">Hey 👋I am Enzo!</h1>
+<h1 align="center">Hey 👋 I am Enzo!</h1>
 
-###
+<table>
+  <tr>
+    <td width="70%">
+      <h3>
+        I'm a Computer Engineering student with a passion for backend development and game development.<br/>
+        I love understanding how systems work under the hood and building software that is clean, efficient, and meaningful.
+      </h3>
+    </td>
+    <td width="30%" align="right">
+      <img
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
-<h2 align="left">I'm a Computer Engineering student with a passion for backend development and game development.<br>I love understanding how systems work under the hood and building software that is clean, efficient, and meaningful.</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 
-###
+<h2 align="left">💻 Tech Stack</h2>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<h1 align="left"># 💻 Tech Stack:</h1>
 
 ###
 

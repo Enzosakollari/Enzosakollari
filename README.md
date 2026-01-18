@@ -131,7 +131,6 @@
     width="360"
     height="220"
   />
-  
   <img 
     src="https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215427.png"
     width="360"

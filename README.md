@@ -127,7 +127,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/banner.png?raw=true"
+    src="[https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/banner.png?raw=true](https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/login.png)"
     width="360"
     height="220"
   />

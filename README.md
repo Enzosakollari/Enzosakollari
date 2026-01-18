@@ -123,25 +123,33 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Enzosakollari&theme=dracula"
-    height="150"
+## 🚀 My Projects
+
+<div style="display:flex; justify-content:center; gap:16px;">
+
+  <img 
+    src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/banner.png?raw=true" 
+    width="280" 
+    height="180"
+    style="object-fit:cover; border-radius:10px;"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&row=1&column=6"
-    height="110"
+  <img 
+    src="https://github.com/Enzosakollari/The-Maze/blob/master/TjgOtM.png?raw=true" 
+    width="280" 
+    height="180"
+    style="object-fit:cover; border-radius:10px;"
   />
-</p>
 
-###
+  <img 
+    src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221645.png?raw=true" 
+    width="280" 
+    height="180"
+    style="object-fit:cover; border-radius:10px;"
+  />
 
-<img src="https://raw.githubusercontent.com/Enzosakollari/Enzosakollari/output/snake.svg" alt="Snake animation" />
+</div>
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />

@@ -132,7 +132,9 @@
 
 ## 🏆 GitHub Trophies
 
-![trophies](./trophies.svg)
+## 📈 GitHub Metrics
+![metrics](./metrics.svg)
+
 
 
 ---

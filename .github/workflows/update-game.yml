@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight UTC
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -24,7 +24,22 @@ jobs:
 
       - name: Download GitHub Trophies (SVG)
         run: |
-          curl -L "https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4" -o trophies.svg
+          set -e
+
+          URL="https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4"
+
+          # Download as SVG (fail if not 200)
+          curl -L --fail \
+            -H "Accept: image/svg+xml" \
+            -H "User-Agent: github-actions" \
+            "$URL" -o trophies.svg
+
+          # Validate it looks like SVG (not HTML error page)
+          if ! grep -qi "<svg" trophies.svg; then
+            echo "trophies.svg is not valid SVG. First 40 lines:"
+            head -n 40 trophies.svg
+            exit 1
+          fi
 
       - name: Commit and push updates
         run: |

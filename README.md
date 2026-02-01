@@ -118,9 +118,7 @@
 </div>
 
 
----
 
----
 
 ## 📊 GitHub Stats
 
@@ -130,14 +128,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
 
 ## 📈 GitHub Metrics
 ![metrics](./metrics.svg)
 
-
-
----
 
 ## 🎮 My GitHub Game
 

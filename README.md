@@ -127,7 +127,7 @@
   />
 </p> 
 <br>
-![My GitHub Game](game.gif)
+<img src="game.gif" width="100%" />
 
 
 <h2>🚀 My Projects</h2>

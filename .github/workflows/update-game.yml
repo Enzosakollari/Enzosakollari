@@ -22,30 +22,61 @@ jobs:
           output-path: "game.gif"
           strategy: "random"
 
-      - name: Download GitHub Trophies (SVG)
+      - name: Download GitHub Trophies (SVG) with retries + mirrors
+        shell: bash
         run: |
-          set -e
+          set +e
 
-          URL="https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4"
+          URLS=(
+            "https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4"
+            "https://github-profile-trophy-git-main.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4"
+          )
 
-          # Download as SVG (fail if not 200)
-          curl -L --fail \
-            -H "Accept: image/svg+xml" \
-            -H "User-Agent: github-actions" \
-            "$URL" -o trophies.svg
+          success=0
 
-          # Validate it looks like SVG (not HTML error page)
-          if ! grep -qi "<svg" trophies.svg; then
-            echo "trophies.svg is not valid SVG. First 40 lines:"
-            head -n 40 trophies.svg
-            exit 1
+          for url in "${URLS[@]}"; do
+            echo "Trying: $url"
+
+            # retry 5 times with backoff
+            for i in 1 2 3 4 5; do
+              echo "Attempt $i..."
+              curl -L \
+                -H "Accept: image/svg+xml" \
+                -H "User-Agent: github-actions" \
+                --retry 3 \
+                --retry-delay 2 \
+                --retry-all-errors \
+                "$url" -o trophies.svg
+
+              if grep -qi "<svg" trophies.svg; then
+                echo "✅ Downloaded valid SVG."
+                success=1
+                break
+              else
+                echo "Not valid SVG (maybe HTML/503). Waiting..."
+                sleep $((i*3))
+              fi
+            done
+
+            if [ "$success" -eq 1 ]; then
+              break
+            fi
+          done
+
+          if [ "$success" -ne 1 ]; then
+            echo "⚠️ Could not download trophies (service unavailable). Keeping old trophies.svg if exists."
+            rm -f trophies.svg
           fi
+
+          exit 0
 
       - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add game.gif trophies.svg
+          git add game.gif || true
+          git add trophies.svg || true
+
           git commit -m "Update game.gif and trophies.svg" || echo "No changes to commit"
           git push

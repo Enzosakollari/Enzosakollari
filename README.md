@@ -120,17 +120,21 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Enzosakollari&show_icons=true&theme=dracula)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Enzosakollari&show_icons=true&theme=dracula)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&theme=dracula)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&theme=dracula)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4)
+
+
 
 ---
 

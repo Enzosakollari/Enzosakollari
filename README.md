@@ -133,12 +133,7 @@
 ---
 
 
-
-## 📈 GitHub Metrics
-![metrics](./metrics.svg)
-
-
-## 🎮 My GitHub Game
+## 🎮 My GitHub Contributions
 
 ![game](game.gif)
 

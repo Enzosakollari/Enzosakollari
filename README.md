@@ -139,6 +139,7 @@
 <p align="center">
   <img src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/login.png" width="360" height="220" />
   <img src="https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215427.png" width="360" height="220" />
+  <img src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221758.png" width="360" height="220" />
 </p>
 
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />

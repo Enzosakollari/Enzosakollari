@@ -122,9 +122,13 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Enzosakollari&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzosakollari&show_icons=true&theme=dracula" width="700"/>
+</p>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&theme=dracula" width="500"/>
+</p>
 
 ---
 

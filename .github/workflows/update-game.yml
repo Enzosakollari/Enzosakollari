@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
@@ -12,10 +12,25 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: czl9707/gh-space-shooter@v1
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
+          output-path: "game.gif"
+          strategy: "random"
+
+      - name: Download GitHub Trophies (SVG)
+        run: |
+          curl -L "https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4" -o trophies.svg
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add game.gif trophies.svg
+          git commit -m "Update game.gif and trophies.svg" || echo "No changes to commit"
+          git push

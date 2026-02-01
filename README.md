@@ -125,7 +125,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&langs_count=6&theme=dracula"
     height="150"
   />
-</p>
+</p> 
+<br>
+![My GitHub Game](game.gif)
+
 
 <h2>🚀 My Projects</h2>
 

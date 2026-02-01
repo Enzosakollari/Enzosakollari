@@ -127,16 +127,10 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Enzosakollari&show_icons=true&include_all_commits=true&theme=dracula"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&langs_count=6&theme=dracula"
-    height="150"
-  />
-</p> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Enzosakollari&theme=dracula&no-frame=true&row=2&column=4" />
+</p>
 <br>
 <img src="game.gif" width="100%" />
 

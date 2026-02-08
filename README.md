@@ -134,12 +134,22 @@
 ![game](game.gif)
 
 
-<h2>🚀 My Projects</h2>
+<h2 align="center">🚀 My Projects</h2>
 
-<p align="center">
-  <img src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/login.png" width="360" height="220" />
-  <img src="https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215427.png" width="360" height="220" />
-  <img src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221758.png" width="360" height="220" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/login.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
+    </td>
+    <td>
+      <img src="https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215427.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
+    </td>
+    <td>
+      <img src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221758.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />
 
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />

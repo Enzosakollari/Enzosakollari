@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I am Enzo!</h1>
 <img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFhZXcybHhkcHQ0MTZlNTdxdzFtdXRyNW4ya2JlOWpxYnV6ZG12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ2b285amxwOGF3NW5sNTAzZDF0ejFyN2Y0NXgzMzFmNjQ0ZDV6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"
   width="100%"
   alt="header gif"
 />

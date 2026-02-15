@@ -1,4 +1,10 @@
 <h1 align="center">Hey 👋 I am Enzo!</h1>
+<img
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFhZXcybHhkcHQ0MTZlNTdxdzFtdXRyNW4ya2JlOWpxYnV6ZG12eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"
+  width="100%"
+  alt="header gif"
+/>
+
 
 <table>
   <tr>

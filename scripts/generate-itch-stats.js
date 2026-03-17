@@ -76,16 +76,22 @@ function numberOrZero(value) {
 
 async function loadOptionalBrandIcon() {
   const candidates = [
-    path.join(process.cwd(), "itchio.png"),
-    path.join(process.cwd(), "assets", "itchio.png"),
+    path.join(process.cwd(), "itchio.svg"),
+    path.join(process.cwd(), "assets", "itchio.svg"),
     path.join(process.cwd(), "itch.png"),
     path.join(process.cwd(), "assets", "itch.png"),
   ];
 
   for (const candidate of candidates) {
     try {
-      const buffer = await fs.readFile(candidate);
       const extension = path.extname(candidate).toLowerCase();
+      if (extension === ".svg") {
+        const svg = await fs.readFile(candidate, "utf8");
+        const normalizedSvg = svg.replaceAll("#000000", "#fff5f5");
+        return `data:image/svg+xml;base64,${Buffer.from(normalizedSvg, "utf8").toString("base64")}`;
+      }
+
+      const buffer = await fs.readFile(candidate);
       const mimeType = extension === ".jpg" || extension === ".jpeg" ? "image/jpeg" : "image/png";
       return `data:${mimeType};base64,${buffer.toString("base64")}`;
     } catch {

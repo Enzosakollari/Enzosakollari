@@ -143,7 +143,7 @@
 <h2 align="center">🕹️ itch.io Stats</h2>
 
 <p align="center">
-  <img src="assets/itch-stats.svg" width="100%" alt="itch.io stats" />
+  <img src="https://raw.githubusercontent.com/Enzosakollari/Enzosakollari/main/assets/itch-stats.svg" width="100%" alt="itch.io stats" />
 </p>
 
 

@@ -140,14 +140,14 @@
 
 ![game](game.gif)
 
-<h2 align="center">🕹️ itch.io Stats</h2>
+## 🕹️ itch.io Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Enzosakollari/Enzosakollari/main/assets/itch-stats.svg" width="100%" alt="itch.io stats" />
 </p>
 
 
-<h2 align="center">🚀 My Projects</h2>
+## 🚀 My Projects
 
 <table align="center">
   <tr>

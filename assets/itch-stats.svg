@@ -72,7 +72,7 @@
   <g filter="url(#cardShadow)">
     <rect x="472" y="116" width="340" height="112" rx="28" fill="url(#panelFill)" stroke="url(#panelStroke)" />
     <text x="498" y="148" fill="#fda4af" font-size="13" font-weight="700" letter-spacing="1">TOTAL VIEWS</text>
-    <text x="498" y="195" fill="#fff5f5" font-size="42" font-weight="700">60</text>
+    <text x="498" y="195" fill="#fff5f5" font-size="42" font-weight="700">61</text>
   </g>
   <g filter="url(#cardShadow)">
     <rect x="30" y="242" width="860" height="84" rx="24" fill="#120c12" stroke="#5e2632" />

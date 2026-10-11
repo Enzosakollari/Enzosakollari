@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/PkKzNQjwPy7GvxZbfe/giphy.gif" width="500" alt="Black hole animation">
+  <img src="assets/black-hole.gif" width="500" alt="Black hole animation">
 </p>
 
 ## Enzo Sakollari
 
-Computer Engineering student and software developer at CData. I work with data connectivity and enjoy understanding how software works under the hood.
+Computer Engineering student who enjoys working with data and understanding how systems work at a low level.
 
 Currently learning C and C++ through small games and systems projects, with an interest in embedded software.
 

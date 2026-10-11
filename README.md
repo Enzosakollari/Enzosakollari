@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/black-hole.gif" width="100%" height="300" alt="Black hole animation">
+  <img src="assets/black-hole.gif" width="100%" height="400" alt="Black hole animation">
 </p>
 
 ## Enzo Sakollari

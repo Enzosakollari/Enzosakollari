@@ -1,51 +1,29 @@
-<h1 align="center">Hey 👋 I am Enzo!</h1>
-<img
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ2b285amxwOGF3NW5sNTAzZDF0ejFyN2Y0NXgzMzFmNjQ0ZDV6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif"
-  width="100%"
-      height="140"
-  alt="header gif"
-/>
+<p align="center">
+  <img src="https://media2.giphy.com/media/PkKzNQjwPy7GvxZbfe/giphy.gif" width="500" alt="Black hole animation">
+</p>
 
+## Enzo Sakollari
 
-<table>
-  <tr>
-    <td width="70%">
-      <h3>
-        I'm a Computer Engineering student with a passion for backend development and game development.<br/>
-        I love understanding how systems work under the hood and building software that is clean, efficient, and meaningful.
-      </h3>
-    </td>
-    <td width="30%" align="right">
-      <img
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+Computer Engineering student and software developer at CData. I work with data connectivity and enjoy understanding how software works under the hood.
+
+Currently learning C and C++ through small games and systems projects, with an interest in embedded software.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 
 <h2 align="left">💻 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
   <img width="12" />
@@ -57,13 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
   <img width="12" />
@@ -75,42 +49,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="tomcat logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="60" alt="unrealengine logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="60" alt="ssh logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
 </div>
 
 <h2 align="left">🌐 Socials</h2>
 
 <div align="center">
-  <a href="https://shadowmonarch8.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="itch.io" />
-  </a>
-
   <a href="https://www.linkedin.com/in/enzosakollari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
@@ -118,50 +68,4 @@
   <a href="mailto:enzosakollari@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
   </a>
-
-  <a href="https://gitlab.com/enzosakollari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&style=for-the-badge" height="25" alt="GitLab" />
-  </a>
 </div>
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzosakollari&show_icons=true&theme=dracula" width="420"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzosakollari&layout=compact&theme=dracula" width="320"/>
-</p>
-
-
-
-## 🎮 My GitHub Contributions
-
-![game](game.gif)
-
-## 🕹️ itch.io Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Enzosakollari/Enzosakollari/main/assets/itch-stats.svg" width="100%" alt="itch.io stats" />
-</p>
-
-
-## 🚀 My Projects
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/Enzosakollari/RPG-Game/blob/main/runeblade/login.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
-    </td>
-    <td>
-      <img src="https://github.com/Enzosakollari/Websocket-Chat-Application-SpringBoot/blob/master/Screenshot%202026-01-17%20215427.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
-    </td>
-    <td>
-      <img src="https://github.com/Enzosakollari/Social-Media-Django/blob/main/socialmedia/Screenshot%202026-01-17%20221758.png" width="240" style="border-radius:10px; border:2px solid #2f80ed;" />
-    </td>
-  </tr>
-</table>
-
-
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=cobalt" />

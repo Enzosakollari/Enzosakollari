@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/black-hole.gif" width="100%" height="400" alt="Black hole animation">
+  <img src="assets/black-hole.gif" width="100%" height="500" alt="Black hole animation">
 </p>
 
 ## Enzo Sakollari
@@ -8,9 +8,7 @@ Computer Engineering student who enjoys working with data and understanding how 
 
 - I enjoy game development and building small games.
 - I've explored web development and built projects along the way.
-- I'm currently learning C and C++ through games and low-level systems projects.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
+- I'm interested in embedded software and how software interacts with hardware.
 
 <h2 align="left">💻 Tech Stack</h2>
 
